@@ -1,0 +1,26 @@
+.headerSlider .swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.headerSlider .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerSlider .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.headerSlider .swiper-button-next,
+.headerSlider .swiper-button-prev {
+  color: #575757;
+}

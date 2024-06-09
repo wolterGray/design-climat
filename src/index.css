@@ -1,0 +1,171 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  padding: 0;
+  max-width: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+html {
+  color: rgba(36, 36, 36, 0.772);
+}
+
+/* General Style */
+
+.btn {
+  @apply bg-red-600 text-white px-3 py-2 font-semibold rounded-lg hover:bg-red-500 transition-all w-full h-full flex items-center justify-center select-none cursor-pointer;
+}
+.list li {
+  @apply italic font-semibold  bg-gray-200 p-2 rounded-lg mb-2;
+}
+.cardStyle{
+  @apply bg-gray-700 backdrop-blur-sm bg-opacity-95 overflow-hidden 
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  15% {
+    transform: scale(1.05);
+  }
+
+  25% {
+    transform: scale(1);
+  }
+  35% {
+    transform: scale(1.05);
+  }
+  50% {
+    transform: scale(1);
+  }
+  65% {
+    transform: scale(1.05);
+  }
+  75% {
+    transform: scale(0.9);
+  }
+  90% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.heartbeat-button {
+  animation: heartbeat 2.5s infinite;
+}
+
+/* Header */
+.header {
+  @apply relative text-white max-h-screen w-full overflow-hidden;
+}
+.header {
+  @apply relative text-white max-h-screen w-full overflow-hidden;
+}
+
+.headerLink {
+  @apply relative;
+}
+
+.headerLink:after,
+.headerLink.active::after {
+  @apply absolute content-[""] h-[2px] w-0 bg-gray-200 left-0 bottom-[-5px] transition-[width] duration-700;
+}
+
+.headerLink:after:hover {
+  @apply w-full;
+}
+
+.headerControls {
+  @apply hover:scale-110 cursor-pointer transition-transform hover:text-red-500;
+}
+
+.headerLink.active::after {
+  @apply w-full bg-red-500;
+}
+
+.active {
+  @apply scale-150 transition-all;
+}
+
+.headerControls {
+  @apply hover:scale-110 cursor-pointer transition-transform hover:text-red-500;
+}
+.active::after {
+  @apply w-full bg-red-500;
+}
+.active {
+  @apply scale-150 transition-all;
+}
+
+/* Home */
+.bgHome::after {
+  @apply content-[""] fixed top-0 h-screen
+  left-0 w-screen bg-[url("img/home/fixed.jpeg")] object-cover opacity-15 z-[-1];
+}
+
+/* Services */
+
+.servicesItem {
+  @apply relative cursor-pointer hover:scale-105 transition-all duration-300  rounded-xl overflow-hidden shadow-md;
+}
+.servicesTitle {
+  @apply absolute rounded-lg  uppercase transition-all    bg-white  p-3 font-[800] text-xl whitespace-nowrap top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 duration-300;
+}
+.servicesItem:hover .servicesTitle {
+  @apply scale-110 shadow-[0px_0px_10px_2px_red];
+}
+
+/* Social */
+
+.socialIcon {
+  @apply cursor-pointer text-white hover:scale-110 transition-all;
+}
+/* Trending Wrapper  */
+.trendingWrapper {
+  @apply relative;
+}
+
+/* Statistic */
+
+.statWrapper {
+  @apply flex justify-between items-center h-full w-full;
+  grid-template-columns: repeat(autofill, minmax());
+}
+.statCircle {
+  @apply flex items-center justify-center font-bold text-5xl h-52 w-52 rounded-full  border-[20px] border-gray-600;
+}
+
+/* Service */
+
+.service {
+  @apply bg-no-repeat bg-cover min-h-screen text-gray-600 pt-24 relative after:bg-gray-600 after:absolute after:w-screen after:-z-[1] z-[1] after:h-screen after:left-0 after:top-0 after:bg-opacity-55 after:backdrop-blur-md;
+}
+
+/* Search */
+
+.searchWrap::after {
+  @apply content-[''] w-full h-full backdrop-blur-lg absolute  top-0 left-0;
+}
+
+/* track style */
+.rc-slider-track {
+  background-color: rgb(68, 80, 90); /* Изменяем цвет шкалы на красный */
+}
+.rc-slider-handle {
+  border-color: rgb(68, 80, 90); /* Изменяем цвет ручки слайдера на красный */
+}
+.rc-slider-handle-dragging.rc-slider-handle-dragging.rc-slider-handle-dragging {
+  border-color: rgb(68, 80, 90);
+  box-shadow: 0 0 0 5px rgb(68, 80, 90);
+}
+.rc-slider-handle:hover {
+  border-color: rgb(68, 80, 90);
+}
+.rc-slider-handle:focus-visible {
+  border-color: rgb(68, 80, 90);
+  box-shadow: 0 0 0 3px rgb(68, 80, 90);
+}
