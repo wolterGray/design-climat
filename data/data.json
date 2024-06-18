@@ -1,620 +1,617 @@
 {
-  "airConditioners": {
-    "household": [
-      {
-        "id": "CH-S09FTXF2-NG",
-        "category": "household",
-        "company": "Cooper&Hunter",
-        "name": "COOPER&HUNTER CH-S09FTXF2-NG (Vital Inverter R32)",
-        "imgPath": [
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch1.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch2.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch3.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch4.jpeg"
-        ],
-        "price": 20299,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "27"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "2,80 (0,50-3,30) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "2,60 (0,44-3,26) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Ні"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 5
-      },
-      {
-        "id": "CH-S12FTXF2-NG",
-        "company": "Cooper&Hunter",
-        "category": "household",
-        "name": "COOPER&HUNTER CH-S12FTXF2-NG (Vital Inverter R32)",
-        "imgPath": [
-          "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch1.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch2.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch3.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch4.jpeg"
-        ],
-        "price": 22499,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "32"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "3,40 (0,60-3,80) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "3,20 (0,60-3,60) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 5
-      },
-      {
-        "id": "CH-S09FTXLA2-NG ",
-        "company": "Cooper&Hunter",
-        "category": "household",
-        "name": "COOPER&HUNTER CH-S09FTXLA2-NG (Arctic Inverter WiFi R32)",
-        "imgPath": [
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch1.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch2.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch3.jpeg",
-          "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch4.jpeg"
-        ],
-        "price": 26599,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "27"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "2,80 (0,44-4,20) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "2,60 (0,44-3,26) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 2
-      },
-      {
-        "id": "GP-09SL",
-        "company": "Tosot",
-        "category": "household",
-        "name": "TOSOT GP-09SL (Orbis)",
-        "imgPath": [
-          "/design-climat/img/conditioners/tosot/GP-09SL/ts1.jpeg",
-          "/design-climat/img/conditioners/tosot/GP-09SL/ts2.jpeg",
-          "/design-climat/img/conditioners/tosot/GP-09SL/ts3.jpeg",
-          "/design-climat/img/conditioners/tosot/GP-09SL/ts4.jpeg"
-        ],
-        "price": 20799,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "25"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "2,80 (0,5-3,50) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "2,50 (0,5-3,25) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 2
-      },
-      {
-        "id": "GX-09AP2",
-        "company": "Tosot",
-        "category": "household",
-        "name": "TOSOT GX-09AP2 (Expert EU)",
-        "imgPath": [
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts1.jpeg",
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts2.jpeg",
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts3.jpeg",
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts4.jpeg"
-        ],
-        "price": 16399,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Звичайний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "25"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-410A"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "2,65 кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "2,55 кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 3
-      },
-      {
-        "id": "GV-09W2S",
-        "company": "Tosot",
-        "category": "household",
-        "name": "TOSOT GV-09W2S (Lyra two stage)",
-        "imgPath": [
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts1.jpeg",
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts2.jpeg",
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts3.jpeg",
-          "/design-climat/img/conditioners/tosot/GX-09AP2/ts4.jpeg"
-        ],
-        "price": 38199,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "15"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "3,50 (0,70-5,50) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "2,70 (0,70-5,00) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-30 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 1
-      },
-      {
-        "id": "OSH-09FRH3",
-        "company": "Olmo",
-        "category": "household",
-        "name": "OLMO OSH-09FRH3 (Edge Deluxe)",
-        "imgPath": [
-          "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol2.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol3.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol4.jpeg"
-        ],
-        "price": 14799,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "27"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "2,70 (0,430-2,95) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "2,70 (0,50-2,90) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 °C"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Ні"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 4
-      },
-      {
-        "id": "OLMO OSH-12FRH2",
-        "company": "Olmo",
-        "category": "household",
-        "name": "OLMO OSH-12FRH2 (Edge inverter new)",
-        "imgPath": [
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
-          "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg"
-        ],
-        "price": 16399,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "34"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-410A"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "3,41 (0,90-3,55) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "3,36 (0,90-3,55) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 °C"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 2
-      }
-    ],
-    "multisplit": [
-      {
-        "id": "CHML-IW18CNK",
-        "company": "Cooper&Hunter",
-        "category": "multisplit",
-        "name": "Внутрішній блок  COOPER&HUNTER CHML-IW18CNK",
-        "imgPath": [
-          "/design-climat/img/conditioners/cooper&hunter/multisplit/CHML-IW18CNK/chms1.jpeg"
-        ],
-        "price": 6549,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "50 кв.м"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-410A"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "5,8 кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "5,3 кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Ні"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 5
-      },
-      {
-        "id": "CHML-IW18INK",
-        "company": "Cooper&Hunter",
-        "category": "multisplit",
-        "name": "Внутрішній блок COOPER&HUNTER CHML-IW18INK",
-        "imgPath": [
-          "/design-climat/img/conditioners/cooper&hunter/multisplit/CHML-IW18INK/chms1.jpeg"
-        ],
-        "price": 6549,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "50 кв.м"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-410A"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "5,8 кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "5,3 кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Ні"
-          },
-          {
-            "name": "Колір",
-            "value": "Білий"
-          }
-        ],
-        "range": 4
-      },
-      {
-        "id": "CH-S12FTXAM2S-BL(I)",
-        "company": "Cooper&Hunter",
-        "category": "multisplit",
-        "name": "Внутрішній блок COOPER&HUNTER CH-S12FTXAM2S-BL(I) (Supreme multi)",
-        "imgPath": [
-          "/design-climat/img/conditioners/cooper&hunter/multisplit/CH-S12FTXAM2S-BL(I)/chms1.jpeg"
-        ],
-        "price": 10719,
-        "characteristics": [
-          {
-            "name": "Тип:",
-            "value": "Спліт-система"
-          },
-          {
-            "name": "Тип компрессору:",
-            "value": "Інверторний"
-          },
-          {
-            "name": "Тип встановлення:",
-            "value": "Настінний"
-          },
-          {
-            "name": "Площа:",
-            "value": "35 кв.м"
-          },
-          {
-            "name": "Фреон:",
-            "value": "R-32"
-          },
-          {
-            "name": "На обігрів:",
-            "value": "4,20 (0,80-4,50) кВт"
-          },
-          {
-            "name": "На охолодження:",
-            "value": "3,53 (0,85-5,00) кВт"
-          },
-          {
-            "name": "Мін.температура:",
-            "value": "-15 ºС"
-          },
-          {
-            "name": "Wi-Fi:",
-            "value": "Так"
-          },
-          {
-            "name": "Колір",
-            "value": "Чорний"
-          }
-        ],
-        "range": 3
-      }
-    ]
-  },
+  "airConditioners": [
+    {
+      "id": "CH-S09FTXF2-NG",
+      "category": "household",
+      "company": "Cooper&Hunter",
+      "name": "COOPER&HUNTER CH-S09FTXF2-NG (Vital Inverter R32)",
+      "imgPath": [
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch1.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch2.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch3.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch4.jpeg"
+      ],
+      "price": 20299,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "27"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "2,80 (0,50-3,30) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "2,60 (0,44-3,26) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Ні"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 5
+    },
+    {
+      "id": "CH-S12FTXF2-NG",
+      "company": "Cooper&Hunter",
+      "category": "household",
+      "name": "COOPER&HUNTER CH-S12FTXF2-NG (Vital Inverter R32)",
+      "imgPath": [
+        "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch1.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch2.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch3.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S12FTXF2-NG/ch4.jpeg"
+      ],
+      "price": 22499,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "32"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "3,40 (0,60-3,80) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "3,20 (0,60-3,60) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 5
+    },
+    {
+      "id": "CH-S09FTXLA2-NG ",
+      "company": "Cooper&Hunter",
+      "category": "household",
+      "name": "COOPER&HUNTER CH-S09FTXLA2-NG (Arctic Inverter WiFi R32)",
+      "imgPath": [
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch1.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch2.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch3.jpeg",
+        "/design-climat/img/conditioners/cooper&hunter/CH-S09FTXF2-NG/ch4.jpeg"
+      ],
+      "price": 26599,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "27"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "2,80 (0,44-4,20) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "2,60 (0,44-3,26) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 2
+    },
+    {
+      "id": "GP-09SL",
+      "company": "Tosot",
+      "category": "household",
+      "name": "TOSOT GP-09SL (Orbis)",
+      "imgPath": [
+        "/design-climat/img/conditioners/tosot/GP-09SL/ts1.jpeg",
+        "/design-climat/img/conditioners/tosot/GP-09SL/ts2.jpeg",
+        "/design-climat/img/conditioners/tosot/GP-09SL/ts3.jpeg",
+        "/design-climat/img/conditioners/tosot/GP-09SL/ts4.jpeg"
+      ],
+      "price": 20799,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "25"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "2,80 (0,5-3,50) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "2,50 (0,5-3,25) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 2
+    },
+    {
+      "id": "GX-09AP2",
+      "company": "Tosot",
+      "category": "household",
+      "name": "TOSOT GX-09AP2 (Expert EU)",
+      "imgPath": [
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts1.jpeg",
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts2.jpeg",
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts3.jpeg",
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts4.jpeg"
+      ],
+      "price": 16399,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Звичайний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "25"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-410A"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "2,65 кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "2,55 кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 3
+    },
+    {
+      "id": "GV-09W2S",
+      "company": "Tosot",
+      "category": "household",
+      "name": "TOSOT GV-09W2S (Lyra two stage)",
+      "imgPath": [
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts1.jpeg",
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts2.jpeg",
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts3.jpeg",
+        "/design-climat/img/conditioners/tosot/GX-09AP2/ts4.jpeg"
+      ],
+      "price": 38199,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "15"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "3,50 (0,70-5,50) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "2,70 (0,70-5,00) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-30 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 1
+    },
+    {
+      "id": "OSH-09FRH3",
+      "company": "Olmo",
+      "category": "household",
+      "name": "OLMO OSH-09FRH3 (Edge Deluxe)",
+      "imgPath": [
+        "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol2.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol3.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-09FRH3/ol4.jpeg"
+      ],
+      "price": 14799,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "27"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "2,70 (0,430-2,95) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "2,70 (0,50-2,90) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 °C"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Ні"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 4
+    },
+    {
+      "id": "OLMO OSH-12FRH2",
+      "company": "Olmo",
+      "category": "household",
+      "name": "OLMO OSH-12FRH2 (Edge inverter new)",
+      "imgPath": [
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg",
+        "/design-climat/img/conditioners/olmo/OSH-12FRH2/ol1.jpeg"
+      ],
+      "price": 16399,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "34"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-410A"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "3,41 (0,90-3,55) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "3,36 (0,90-3,55) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 °C"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 2
+    },
+
+    {
+      "id": "CHML-IW18CNK",
+      "company": "Cooper&Hunter",
+      "category": "multisplit",
+      "name": "Внутрішній блок  COOPER&HUNTER CHML-IW18CNK",
+      "imgPath": [
+        "/design-climat/img/conditioners/cooper&hunter/multisplit/CHML-IW18CNK/chms1.jpeg"
+      ],
+      "price": 6549,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "50 кв.м"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-410A"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "5,8 кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "5,3 кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Ні"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 5
+    },
+    {
+      "id": "CHML-IW18INK",
+      "company": "Cooper&Hunter",
+      "category": "multisplit",
+      "name": "Внутрішній блок COOPER&HUNTER CHML-IW18INK",
+      "imgPath": [
+        "/design-climat/img/conditioners/cooper&hunter/multisplit/CHML-IW18INK/chms1.jpeg"
+      ],
+      "price": 6549,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "50 кв.м"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-410A"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "5,8 кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "5,3 кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Ні"
+        },
+        {
+          "name": "Колір",
+          "value": "Білий"
+        }
+      ],
+      "range": 4
+    },
+    {
+      "id": "CH-S12FTXAM2S-BL(I)",
+      "company": "Cooper&Hunter",
+      "category": "multisplit",
+      "name": "Внутрішній блок COOPER&HUNTER CH-S12FTXAM2S-BL(I) (Supreme multi)",
+      "imgPath": [
+        "/design-climat/img/conditioners/cooper&hunter/multisplit/CH-S12FTXAM2S-BL(I)/chms1.jpeg"
+      ],
+      "price": 10719,
+      "characteristics": [
+        {
+          "name": "Тип:",
+          "value": "Спліт-система"
+        },
+        {
+          "name": "Тип компрессору:",
+          "value": "Інверторний"
+        },
+        {
+          "name": "Тип встановлення:",
+          "value": "Настінний"
+        },
+        {
+          "name": "Площа:",
+          "value": "35 кв.м"
+        },
+        {
+          "name": "Фреон:",
+          "value": "R-32"
+        },
+        {
+          "name": "На обігрів:",
+          "value": "4,20 (0,80-4,50) кВт"
+        },
+        {
+          "name": "На охолодження:",
+          "value": "3,53 (0,85-5,00) кВт"
+        },
+        {
+          "name": "Мін.температура:",
+          "value": "-15 ºС"
+        },
+        {
+          "name": "Wi-Fi:",
+          "value": "Так"
+        },
+        {
+          "name": "Колір",
+          "value": "Чорний"
+        }
+      ],
+      "range": 3
+    }
+  ],
   "info": {
     "contacts": {
       "address": ["м.Ірпінь, Київська обл.", "вул.Васильківська буд.2"],
@@ -627,7 +624,23 @@
         }
       ]
     },
-
+    "services": [
+      {
+        "service": "Стандартний монтаж кондиціонеру",
+        "unit": "Послуга",
+        "price": "3600"
+      },
+      {
+        "service": "Закладання магістралі",
+        "unit": "Метр погонний",
+        "price": "500"
+      },
+      {
+        "service": "Додаткові роботи",
+        "unit": "Метр погонний",
+        "price": "150"
+      }
+    ],
     "statistics": {
       "stats": [
         {
